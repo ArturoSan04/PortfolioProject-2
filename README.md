@@ -1,4 +1,4 @@
-This project is based on sample data and questions that a hotel's stakeholders had on the progress over a couple of years
+This project is based on sample data and questions that a hotel's stakeholders had on the progress of a hotel chain's profitablity
 The questions that the stakeholders had are listed below:
 
 -- Is our hotel revenue growing by year?
